@@ -1,0 +1,172 @@
+%PDF-1.4
+1 0 obj
+<< /Title (Chirag S - Resume)
+/Author (Chirag S)
+/Creator (Sample PDF for GitHub Pages Portfolio)
+/Producer (Sample PDF Creator)
+/CreationDate (D:20250503000000)
+>>
+endobj
+2 0 obj
+<< /Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+4 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 612 792]
+/Contents 5 0 R
+/Resources << /Font << /F1 6 0 R /F2 7 0 R /F3 8 0 R >>
+>>
+>>
+endobj
+5 0 obj
+<< /Length 2000 >>
+stream
+BT
+/F1 24 Tf
+50 700 Td
+(Chirag S) Tj
+/F2 12 Tf
+0 -20 Td
+(Software Engineer) Tj
+/F3 10 Tf
+0 -15 Td
+(hello@chirag.dev | (123) 456-7890 | San Francisco, CA) Tj
+0 -15 Td
+(github.com/chirag | linkedin.com/in/chirag) Tj
+
+/F1 14 Tf
+-50 -40 Td
+(SUMMARY) Tj
+/F3 10 Tf
+0 -15 Td
+(Experienced software engineer with expertise in full-stack web development, specializing in) Tj
+0 -15 Td
+(JavaScript frameworks, responsive design, and cloud technologies. Passionate about creating) Tj
+0 -15 Td
+(intuitive user experiences and solving complex technical challenges.) Tj
+
+/F1 14 Tf
+0 -30 Td
+(EXPERIENCE) Tj
+/F2 12 Tf
+0 -20 Td
+(Senior Software Engineer - Tech Solutions Inc.) Tj
+/F3 10 Tf
+0 -15 Td
+(January 2023 - Present) Tj
+0 -15 Td
+(• Led development of a customer-facing web application that increased user engagement by 40%) Tj
+0 -15 Td
+(• Implemented CI/CD pipelines that reduced deployment time by 60%) Tj
+0 -15 Td
+(• Mentored junior developers and conducted code reviews to ensure code quality) Tj
+
+/F2 12 Tf
+0 -20 Td
+(Software Engineer - StartupX) Tj
+/F3 10 Tf
+0 -15 Td
+(March 2020 - December 2022) Tj
+0 -15 Td
+(• Developed and maintained multiple React-based web applications) Tj
+0 -15 Td
+(• Designed and implemented RESTful APIs using Node.js and Express) Tj
+0 -15 Td
+(• Collaborated with UX designers to implement responsive and accessible interfaces) Tj
+
+/F1 14 Tf
+0 -30 Td
+(EDUCATION) Tj
+/F2 12 Tf
+0 -20 Td
+(Bachelor of Science in Computer Science) Tj
+/F3 10 Tf
+0 -15 Td
+(University of Technology - Graduated 2020) Tj
+0 -15 Td
+(• GPA: 3.8/4.0) Tj
+0 -15 Td
+(• Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems) Tj
+
+/F1 14 Tf
+0 -30 Td
+(SKILLS) Tj
+/F3 10 Tf
+0 -15 Td
+(• Programming Languages: JavaScript, TypeScript, Python, HTML, CSS) Tj
+0 -15 Td
+(• Frameworks & Libraries: React, Vue.js, Node.js, Express, Django) Tj
+0 -15 Td
+(• Tools & Technologies: Git, Docker, AWS, MongoDB, PostgreSQL) Tj
+0 -15 Td
+(• Other: Responsive Design, RESTful APIs, CI/CD, Agile Methodologies) Tj
+
+/F1 14 Tf
+0 -30 Td
+(PROJECTS) Tj
+/F2 12 Tf
+0 -20 Td
+(E-Commerce Platform) Tj
+/F3 10 Tf
+0 -15 Td
+(• Built a full-featured online shopping platform with React, Node.js, and MongoDB) Tj
+0 -15 Td
+(• Implemented secure payment processing with Stripe API) Tj
+
+/F2 12 Tf
+0 -20 Td
+(Task Management Application) Tj
+/F3 10 Tf
+0 -15 Td
+(• Developed a collaborative task management app with real-time updates using Vue.js and Firebase) Tj
+0 -15 Td
+(• Created an analytics dashboard to visualize team productivity) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+7 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000166 00000 n
+0000000215 00000 n
+0000000272 00000 n
+0000000421 00000 n
+0000002473 00000 n
+0000002545 00000 n
+0000002612 00000 n
+trailer
+<< /Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2679
+%%EOF
