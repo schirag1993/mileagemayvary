@@ -1,16 +1,16 @@
 # Chirag S - Personal Portfolio
 
-This is a personal portfolio website for Chirag S, showcasing his skills, projects, and professional experience. The website is built using HTML, CSS, and JavaScript and is hosted on GitHub Pages.
+This is a personal portfolio website for Chirag S, showcasing his different personas, skills, projects, and professional experience. The website is built using HTML, CSS, and JavaScript and is hosted on GitHub Pages.
 
 ## Features
 
 - Responsive design that works on all devices
 - Modern and clean UI/UX
-- Sections for About, Projects, Skills, Testimonials, Blog, and Contact
+- Multiple persona pages (Tech, Personal, Cooking)
+- Main page with bio information
 - Interactive elements with smooth animations
 - Downloadable resume
-- Contact form
-- Testimonial slider
+- Coming soon contact page
 - Project showcase with case studies
 
 ## Technologies Used
@@ -23,7 +23,11 @@ This is a personal portfolio website for Chirag S, showcasing his skills, projec
 
 ## Structure
 
-- `index.html` - Main HTML file
+- `index.html` - Main page with bio information
+- `tech.html` - Technical professional persona page
+- `personal.html` - Personal musings and interests page
+- `cooking.html` - Cooking adventures and recipes page
+- `contact.html` - Coming soon contact page
 - `css/style.css` - Main stylesheet
 - `js/script.js` - JavaScript functionality
 - `images/` - Directory containing all images
